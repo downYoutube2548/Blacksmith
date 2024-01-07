@@ -1,0 +1,7 @@
+name: Blacksmith
+version: '${project.version}'
+main: com.dev.blacksmith.Blacksmith
+api-version: 1.20
+commands:
+  blacksmith:
+    permission: blacksmith.use
